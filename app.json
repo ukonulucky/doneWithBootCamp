@@ -3,7 +3,8 @@
     "name": "dontwit",
     "slug": "dontwit",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "description":"A market palce for selling products",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -17,11 +18,13 @@
     "ios": {
       "supportsTablet": true
     },
+   
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
+    
     },
     "web": {
       "favicon": "./assets/favicon.png"
